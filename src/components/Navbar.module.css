@@ -1,0 +1,11 @@
+.menu-container a{
+    margin-left: 10px;
+}
+.menu-container{
+    margin-top: 10px;
+    text-align: center;
+}
+.menu-container a:hover{
+    text-decoration: underline solid blue 5px;
+    font-size: medium;
+}

@@ -6,6 +6,11 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.titulo{
+  margin: 0;
+  font-size: 2em;
+  font-family: var(--font-mono);
+}
 
 .description {
   display: inherit;

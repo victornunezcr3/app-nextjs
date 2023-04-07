@@ -7,10 +7,10 @@ export default function Home() {
     <MainLayout>
       <LogoLayout />
       <div>
-        <h1>***Home page***</h1>
+        <h1>***Pricing page***</h1>
       </div>
       <div>
-        <h1>  Ir a: <Link href='/about'>About</Link></h1>
+        <h1>  Ir a: <Link href='/'>Home</Link></h1>
       </div>
     </MainLayout>
   )
